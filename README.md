@@ -1,4 +1,4 @@
-# Simple form
+# HTTP REST API Server
 
 ## Setup
 * git clone -b develop `git@github.com:EvanBrightside/http-rest-api.git`
