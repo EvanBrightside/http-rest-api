@@ -1,7 +1,7 @@
 # HTTP REST API Server
 
 ## Setup
-* git clone -b develop `git@github.com:EvanBrightside/http-rest-api.git`
+* git clone `git@github.com:EvanBrightside/http-rest-api.git`
 * make
 * ./apiserver
 
