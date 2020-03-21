@@ -2,6 +2,7 @@
 
 ## Setup
 * git clone `git@github.com:EvanBrightside/http-rest-api.git`
+* cd http-rest-api
 * make
 * ./apiserver
 
